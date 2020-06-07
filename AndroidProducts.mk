@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/reloaded_beryllium.mk
+    $(LOCAL_DIR)/cos_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    reloaded_beryllium-user \
-    reloaded_beryllium-userdebug \
-    reloaded_beryllium-eng
+    cos_beryllium-user \
+    cos_beryllium-userdebug \
+    cos_beryllium-eng
