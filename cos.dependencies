@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "RiteshSaxena/hardware_qcom_display",
+    "target_path": "hardware/qcom/display/sdm845",
+    "branch": "q-sdm845",
+    "remote": "github"
+  },
+  {
+    "repository": "RiteshSaxena/hardware_qcom_media",
+    "target_path": "hardware/qcom/media/sdm845",
+    "branch": "q-sdm845",
+    "remote": "github"
+  },
+    {
+    "repository": "RiteshSaxena/hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio/sdm845",
+    "branch": "q-sdm845",
+    "remote": "github"
+  }
+]
